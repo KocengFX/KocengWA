@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-multi-bot",
+  "version": "1.0.0",
+  "description": "Multi Account WhatsApp Bot with Persistent Typing + Auto Love",
+  "main": "multi-bot.js",
+  "scripts": {
+    "start": "node multi-bot.js",
+    "dev": "node multi-bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
